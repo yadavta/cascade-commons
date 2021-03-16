@@ -1,0 +1,23 @@
+{
+  "name": "cascade-commons",
+  "version": "0.0.1",
+  "description": "A re-write of the Cascade Commons debate platform.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yadavta/cascade-commons.git"
+  },
+  "author": "yadavta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yadavta/cascade-commons/issues"
+  },
+  "homepage": "https://github.com/yadavta/cascade-commons#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "path": "^0.12.7"
+  }
+}
